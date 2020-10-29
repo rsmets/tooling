@@ -6,13 +6,13 @@ ShiftIt for osx windows management, however looks like it is not being maintaine
 Actually have found the Rectangle which does the same thing. https://rectangleapp.com/
 
 
-Pretty cool improvement on navigating GitHub source: https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US
+Pretty cool improvement on navigating GitHub source via the browser UI: https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US
 
 
 This could be a useful API if we want to do anything geolocation related. Could easily grab the log,lag to the thousanths decimal point with our hub checkins programmatically. just saw this project as it made top 25 on HN this morning. https://github.com/Risk3sixty-Labs/geoapi
 
 
-A tool I use everyday, thought I'd share. https://github.com/golbin/git-commander
+A tool I use everyday, thought I'd share. Super lightweight git cli tool. Really useful for quick diffs and selecting which files to stage. https://github.com/golbin/git-commander
 
 
 Here's another one, a chrome tabs manager that tracks web site hopping paths https://chrome.google.com/webstore/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl
@@ -84,3 +84,7 @@ alias curlt='curlWithTime'
 curlWithTime() {
    curl -w "@/Users/raysmets/.curl-format.txt" -o /dev/null -s "$1"
 }
+
+
+Step 4 of this guide explains how to auto format using eslint style guide upon every file save.
+https://www.digitalocean.com/community/tutorials/linting-and-formatting-with-eslint-in-vs-code
