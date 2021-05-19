@@ -1,9 +1,21 @@
+Must haves:
+VsCode
+SourceTree
+Postman
+brew
+
+Postgress db view:
+DataGrip (if can license) other DBeaver
+
+Mongo db viewer:
+MongoDB Compass
+
 
 This guy was on top of HN today. "cyber swiss army knife" seems pretty handy when the time(s) strikes. https://gchq.github.io/CyberChef/
 
 
 ShiftIt for osx windows management, however looks like it is not being maintained anymore. https://github.com/fikovnik/ShiftIt
-Actually have found the Rectangle which does the same thing. https://rectangleapp.com/
+Actually have found the Rectangle which does the same thing. https://rectangleapp.com/ (Now way preferred)
 
 
 Pretty cool improvement on navigating GitHub source via the browser UI: https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US
